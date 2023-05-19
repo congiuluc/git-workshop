@@ -12,4 +12,4 @@
 - Show git log
 - Soft Reset repository to commit 1
 - Show git log
-- Verify file content is "Commit 1" 
+- Verify repository history has 1 commit (Commit 1)
