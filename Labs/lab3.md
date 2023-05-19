@@ -10,6 +10,6 @@
 - Edit file add new line "Commit 3" to index.txt
 - Create a new commit for the index.txt file with message "commit 3"
 - Show git log
-- Hard Reset repository to commit 1
+- Soft Reset repository to commit 1
 - Show git log
 - Verify file content is "Commit 1" 
